@@ -5,3 +5,5 @@
 - I love Node.js and everything Javascript related 🤓
 
 ![Github Stats for Franklin Noriega](https://github-readme-stats.vercel.app/api?username=franklinzerocr&show_icons=true&theme=ayu-mirage)
+
+Twitter: https://twitter.com/franklinzerocr
